@@ -1,0 +1,14 @@
+package com.codegym.task.task01.task0103;
+
+public class Solution {
+    public static void main(String[] args) {
+        //write your code here
+        int currentYear = 3126;
+        int friendBirthdate= currentYear-8;
+        
+        System.out.println("My friend was born " + friendBirthdate + " ago.");
+        
+        
+        
+    }
+}
